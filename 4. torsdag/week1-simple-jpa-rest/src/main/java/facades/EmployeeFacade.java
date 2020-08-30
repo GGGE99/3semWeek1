@@ -71,7 +71,7 @@ public class EmployeeFacade {
 //    getEmployeesWithHighestSalary
     public void createEmployee(String name, String adress, int salary) {
         Employee employee = new Employee(name, adress, salary);
-        EntityManager em = emf.createEntityManager();
+        EntityManager em = getEntityManager();
         try {
             em.getTransaction().begin();
             em.persist(employee);

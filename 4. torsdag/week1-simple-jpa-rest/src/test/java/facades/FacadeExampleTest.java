@@ -69,15 +69,6 @@ public class FacadeExampleTest {
 //        Remove any data after each test was run
     }
 
-    /**
-     * Test a method here.
-     */
-//    @Test
-//    public void testSomeMethod() {
-//        fail("The test case is a prototype.");
-////       assertTrue(true);
-//    }
-//
     @Test
     public void testGetEmployeeById() {
         Employee ex = e1;
