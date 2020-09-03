@@ -1,4 +1,6 @@
 # Uge1
+Havde skrevt en forket email på afleveringen men den skulle være rettet nu
+
 Jeg har ikke lavet fradegs opgaven da vi fik advide at den minde meget om det til torsdag. Jeg har i stedet brugt tiden på at finde ud af hvordan jeg kunne køre test på en anden database end programet bruger når den køre. for at undgå at testne ødelægger den database programmet bruger 
 
 ## Tirsdag
